@@ -1,3 +1,6 @@
 [submodule "BinaryExploitations"]
 	path = BinaryExploitations
 	url = https://github.com/Ian-Kilty/BinaryExploitations.git
+[submodule "Learning-Rust"]
+	path = Learning-Rust
+	url = https://github.com/Ian-Kilty/Learning-Rust

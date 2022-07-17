@@ -1,3 +1,3 @@
 # Learning-Resources
 ## Table of contents
-* [Binary Exploitations](./BinaryExploitations)
+* [Binary Exploitations](https://github.com/Ian-Kilty/BinaryExploitations)
