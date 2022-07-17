@@ -1,0 +1,3 @@
+[submodule "BinaryExploitations"]
+	path = BinaryExploitations
+	url = https://github.com/Ian-Kilty/BinaryExploitations.git
